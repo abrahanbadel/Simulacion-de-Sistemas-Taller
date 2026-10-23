@@ -1,0 +1,12 @@
+{
+  "variable": "llegadas_B",
+  "distribucion": "Gamma",
+  "parametros": "alfa=1.260, beta=7.578",
+  "scipy": "gamma",
+  "args": [
+    1.2600093062273303,
+    0.0,
+    7.577721809522377
+  ],
+  "flexsim": "gamma(0.00, 7.5777, 1.2600, getstream(current))"
+}

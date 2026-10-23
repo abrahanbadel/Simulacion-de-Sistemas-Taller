@@ -1,0 +1,10 @@
+Variable,n,R_rachas_mediana,Z_rachas_mediana,p_rachas_mediana,dec_rachas_med,R_rachas_ascdes,Z_rachas_ascdes,p_rachas_ascdes,dec_rachas_ad,Q_LjungBox,p_LjungBox,dec_LjungBox,Conclusion
+llegadas_A,100,58,1.4071,0.1594,No se rechaza H0,67,0.1596,0.8732,No se rechaza H0,2.179,0.9948,No se rechaza H0,INDEPENDIENTES
+llegadas_B,100,55,0.8041,0.4214,No se rechaza H0,70,0.8776,0.3802,No se rechaza H0,9.1336,0.5195,No se rechaza H0,INDEPENDIENTES
+llegadas_C,100,53,0.402,0.6877,No se rechaza H0,64,-0.5585,0.5765,No se rechaza H0,10.463,0.4008,No se rechaza H0,INDEPENDIENTES
+lavado_A,100,57,1.2061,0.2278,No se rechaza H0,71,1.117,0.264,No se rechaza H0,2.4251,0.9919,No se rechaza H0,INDEPENDIENTES
+lavado_B,120,68,1.2834,0.1993,No se rechaza H0,80,0.0727,0.942,No se rechaza H0,7.4379,0.6836,No se rechaza H0,INDEPENDIENTES
+lavado_C,100,50,-0.201,0.8407,No se rechaza H0,62,-1.0372,0.2997,No se rechaza H0,11.0253,0.3556,No se rechaza H0,INDEPENDIENTES
+inspeccion_A,100,52,0.201,0.8407,No se rechaza H0,66,-0.0798,0.9364,No se rechaza H0,12.8308,0.2333,No se rechaza H0,INDEPENDIENTES
+inspeccion_B,100,46,-1.0051,0.3149,No se rechaza H0,66,-0.0798,0.9364,No se rechaza H0,6.074,0.809,No se rechaza H0,INDEPENDIENTES
+inspeccion_C,100,48,-0.6031,0.5465,No se rechaza H0,73,1.5957,0.1106,No se rechaza H0,6.3959,0.781,No se rechaza H0,INDEPENDIENTES

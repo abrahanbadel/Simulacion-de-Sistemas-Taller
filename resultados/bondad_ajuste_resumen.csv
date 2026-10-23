@@ -1,0 +1,10 @@
+Variable,No_se_rechazan,Mejor_ajuste,Parametros,FlexSim,Ranking_mejor
+llegadas_A,"Weibull, Exponencial, Gamma, Erlang, Lognormal",Weibull,"forma=0.946, escala=6.062","weibull(0.00, 6.0620, 0.9462, getstream(current))",100.0
+llegadas_B,"Gamma, Weibull, Exponencial, Erlang, Lognormal, Beta",Gamma,"alfa=1.260, beta=7.578","gamma(0.00, 7.5777, 1.2600, getstream(current))",100.0
+llegadas_C,"Weibull, Gamma, Beta, Exponencial, Erlang",Weibull,"forma=1.241, escala=7.631","weibull(0.00, 7.6305, 1.2408, getstream(current))",100.0
+lavado_A,"Erlang, Uniforme, Gamma, Lognormal, Beta, Weibull",Erlang,"k=6, beta=0.485","erlang(0.00, 0.4847, 6, getstream(current))",100.0
+lavado_B,"Gamma, Erlang, Weibull, Logistica, Triangular, Lognormal, Beta",Gamma,"alfa=3.145, beta=1.318","gamma(0.00, 1.3180, 3.1451, getstream(current))",100.0
+lavado_C,"Weibull, Logistica, Gamma, Beta, Normal, Erlang, Lognormal",Weibull,"forma=2.050, escala=3.083","weibull(0.00, 3.0825, 2.0498, getstream(current))",100.0
+inspeccion_A,"Normal, Logistica, Gamma, Erlang, Triangular, Lognormal, Weibull",Normal,"mu=7.729, sigma=1.435","normal(7.7292, 1.4354, getstream(current))",100.0
+inspeccion_B,"Lognormal, Erlang, Gamma, Logistica, Normal, Triangular, Weibull, Beta",Lognormal,"mu=1.615, sigma=0.164","lognormal2(0.00, 5.0257, 0.1640, getstream(current))",100.0
+inspeccion_C,Normal,Normal,"mu=12.169, sigma=2.495","normal(12.1691, 2.4954, getstream(current))",100.0

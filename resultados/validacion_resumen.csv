@@ -1,0 +1,2 @@
+n_piloto,s_piloto,corridas_necesarias_z,corridas_necesarias_t,corridas_disponibles,F_stat,p_F,varianzas_iguales,t_stat,gl_t,p_t,IC_low,IC_high,z_stat,p_z,Conclusion
+20,4.3827,33,38,33,1.3864,0.377,True,-0.8449,61.0,0.4015,-2.5199,1.0229,-0.8515,0.3945,MODELO VALIDO
